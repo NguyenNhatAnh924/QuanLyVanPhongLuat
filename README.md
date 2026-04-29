@@ -39,37 +39,36 @@ Hệ thống được thiết kế để phục vụ 5 nhóm người dùng chí
 ## Cấu trúc thư mục
 ```bash
 LuanVan_Project/
-├── api/ # App chính xử lý Logic Backend (Django)
-│ ├── tests/ # Chứa các kịch bản kiểm thử (vd: độ chính xác Chatbot)
-│ ├── models.py # Định nghĩa cơ sở dữ liệu (Khách hàng, Luật sư, Lịch hẹn...)
-│ ├── serializers.py # Chuyển đổi dữ liệu sang dạng JSON cho API
-│ ├── views.py # Xử lý logic và phản hồi các yêu cầu từ Frontend
-│ ├── urls.py # Định nghĩa các đường dẫn API
-│ └── vnpay.py # Module tích hợp cổng thanh toán VNPay
-├── backend_core/ # Cấu hình cốt lõi của dự án Django
-│ ├── settings.py # Thiết lập hệ thống, Database, Middleware, Auth
-│ └── urls.py # Điều hướng URL tổng của toàn hệ thống
-├── frontend_web/ # Mã nguồn ứng dụng Client (ReactJS + Vite)
-│ ├── public/ # Tài nguyên tĩnh công khai
+├── api/              # App chính xử lý Logic Backend 
+│ ├── tests/          # Chứa các kịch bản kiểm thử 
+│ ├── models.py       # Định nghĩa cơ sở dữ liệu
+│ ├── serializers.py  # Chuyển đổi dữ liệu sang dạng JSON cho API
+│ ├── views.py        # Xử lý logic và phản hồi các yêu cầu từ Frontend
+│ ├── urls.py         # Định nghĩa các đường dẫn API
+│ └── vnpay.py        # Module tích hợp cổng thanh toán VNPay
+├── backend_core/     # Cấu hình cốt lõi của dự án Django
+│ ├── settings.py     # Thiết lập hệ thống, Database, Middleware, Auth
+│ └── urls.py         # Điều hướng URL tổng của toàn hệ thống
+├── frontend_web/     # Mã nguồn ứng dụng Client
+│ ├── public/         # Tài nguyên tĩnh công khai
 │ └── src/  
-│ ├── api/ # Cấu hình gọi API từ Backend
-│ ├── components/ # Các thành phần giao diện dùng chung (Navbar, Footer, Chatbot...)
-│ ├── layouts/ # Bố cục giao diện riêng cho từng vai trò (Admin, Lawyer, Client)
-│ ├── pages/ # Các trang chức năng chính phân quyền theo User:
-│ │ ├── admin/ # Quản lý người dùng, dịch vụ, lịch hẹn toàn hệ thống
-│ │ ├── assistant/ # Giao diện dành cho trợ lý luật sư (quản lý task, hồ sơ)
-│ │ ├── lawyer/ # Giao diện luật sư (xem lịch hẹn, hồ sơ được phân công)
-│ │ ├── consultant/ # Giao diện tư vấn viên (chăm sóc khách hàng)
-│ │ └── client/ # Giao diện dành cho khách hàng (theo dõi hồ sơ, profile)
-│ ├── App.jsx # Thành phần gốc định nghĩa luồng điều hướng (Routes)
-│ └── main.jsx # Điểm khởi đầu của ứng dụng React
-├── media/ # Lưu trữ tệp tin người dùng tải lên
-│ ├── contracts/ # Lưu trữ các tệp hợp đồng điện tử
-│ ├── documents/ # Tài liệu, hồ sơ vụ việc
-│ └── images/ # Hình ảnh đại diện, minh họa
-├── contracts/ & documents/ # Thư mục chứa tệp mẫu hoặc dữ liệu thô (nếu có)
-├── manage.py # Công cụ dòng lệnh để thực thi các lệnh Django
-└── db.sqlite3 # Cơ sở dữ liệu tạm thời (Development Database)
+│ ├── api/            # Cấu hình gọi API từ Backend
+│ ├── components/     # Các thành phần giao diện dùng chung
+│ ├── layouts/        # Bố cục giao diện riêng cho từng vai trò
+│ ├── pages/          # Các trang chức năng chính phân quyền theo User:
+│ │ ├── admin/        # Giao diện quản lý
+│ │ ├── assistant/    # Giao diện dành cho trợ lý luật sư 
+│ │ ├── lawyer/       # Giao diện luật sư 
+│ │ ├── consultant/   # Giao diện tư vấn viên
+│ │ └── client/       # Giao diện dành cho khách hàng
+│ ├── App.jsx         # Thành phần gốc định nghĩa luồng điều hướng
+│ └── main.jsx        # Điểm khởi đầu của ứng dụng React
+├── media/            # Lưu trữ tệp tin người dùng tải lên
+│ ├── contracts/      # Lưu trữ các tệp hợp đồng điện tử
+│ ├── documents/      # Tài liệu, hồ sơ vụ việc
+│ └── images/         # Hình ảnh đại diện, minh họa
+├── manage.py         # Công cụ dòng lệnh để thực thi các lệnh Django
+└── db.sqlite3        # Cơ sở dữ liệu tạm thời 
 ```
 # Hướng dẫn cài đặt
 
@@ -89,7 +88,7 @@ github.com/pgvector/pgvector/releases
 
 ### Mở Query Tool trong pgAdmin hoặc SQL Shell và chạy lệnh:
 ```bash
-CREATE EXTENSION IF NOT EXISTS vector;
+CREATE EXTENSION IF NOT EXISTS vector
 ```
 ## BackEnd
 
