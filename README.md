@@ -1,4 +1,4 @@
-# Hệ Thống Quản Lý Văn Phòng Luật (LMS)
+# Hệ Thống Quản Lý Văn Phòng Luật
 
 Dự án Luận văn tốt nghiệp Đại học - Ngành Công nghệ Thông tin - Khóa K48.
 Trường Công nghệ Thông tin và Truyền thông - Đại học Cần Thơ (CTU).
