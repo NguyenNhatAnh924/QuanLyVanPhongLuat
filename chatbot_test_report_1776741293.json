@@ -1,0 +1,168 @@
+{
+    "summary": {
+        "average_latency": 10.792,
+        "total_cases": 20
+    },
+    "details": [
+        {
+            "id": 1,
+            "category": "Tư vấn Luật",
+            "question": "Điều kiện để nam nữ kết hôn theo Luật Hôn nhân và Gia đình 2014 là gì?",
+            "answer": "Nam, nữ kết hôn với nhau phải tuân theo các điều kiện sau: \n- Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên;\n- Việc kết hôn do nam và nữ tự nguyện quyết định;\n- Việc kết hôn không bị mất năng lực hành vi dân sự;\n- Việc kết hôn không thuộc một trong các trường hợp cấm kết hôn theo quy định của Luật này.",
+            "is_legal_detected": true,
+            "response_time": 1.997
+        },
+        {
+            "id": 2,
+            "category": "Tư vấn Luật",
+            "question": "Ai có quyền yêu cầu giải quyết ly hôn theo quy định hiện hành?",
+            "answer": "Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.",
+            "is_legal_detected": true,
+            "response_time": 1.559
+        },
+        {
+            "id": 3,
+            "category": "Tư vấn Luật",
+            "question": "Người lao động được đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
+            "answer": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp sau đây: \n- Không được trả lương đầy đủ hoặc trả lương không đúng thời hạn quy định trong hợp đồng lao động, hợp đồng làm việc hoặc luật pháp về lao động;\n- Bị quấy rối tình dục tại nơi làm việc;\n- Làm việc trong điều kiện không đảm bảo an toàn, vệ sinh lao động gây nguy hiểm đến tính mạng, sức khỏe của mình và đã thông báo nhưng người sử dụng lao động không khắc phục;\n- Người sử dụng lao động cung cấp thông tin không trung thực về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và các quy định khác về quyền, nghĩa vụ của người lao động mà người lao động yêu cầu biết khi giao kết hợp đồng lao động và người lao động đã yêu cầu sửa đổi, bổ sung nhưng không được người sử dụng lao động thực hiện;\n- Người lao động bị người sử dụng lao động ngược đãi, quấy rối, cưỡng bức lao động;\n- Người lao động bị người sử dụng lao động thay đổi điều kiện lao động đã thỏa thuận mà người lao động không đồng ý;\n- Người lao động là người nước ngoài làm việc tại Việt Nam bị cơ quan có thẩm quyền của Việt Nam trục xuất hoặc giữ người;\n- Người lao động đã đủ tuổi nghỉ hưu theo quy định tại Điều 3 của Luật này, trừ trường hợp các bên có thỏa thuận khác;\n- Người lao động là cán bộ, công chức, viên chức được bổ nhiệm, bầu cử vào chức vụ trong bộ máy nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội hoặc được cử làm người đại diện phần vốn của Nhà nước, nhiệm vụ, quyền hạn của người đại diện phần vốn của Nhà nước tại doanh nghiệp;\n- Người lao động làm việc theo hợp đồng lao động không xác định thời hạn đơn phương chấm dứt hợp đồng lao động khi đã hoàn thành nhiệm vụ được giao nhưng không được người sử dụng lao động sắp xếp công việc hoặc công việc khác phù hợp.",
+            "is_legal_detected": true,
+            "response_time": 3.472
+        },
+        {
+            "id": 4,
+            "category": "Tư vấn Luật",
+            "question": "Thời gian thử việc tối đa đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn kỹ thuật cao là bao lâu?",
+            "answer": "Điều 25, Khoản 2: 2. Không quá 60 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên;",
+            "is_legal_detected": true,
+            "response_time": 1.596
+        },
+        {
+            "id": 5,
+            "category": "Tư vấn Luật",
+            "question": "Luật Đất đai 2024 quy định như thế nào về các trường hợp thu hồi đất để phát triển kinh tế - xã hội?",
+            "answer": "Điều 95. Điều kiện được bồi thường về đất khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n----------------\nĐiều 203. Đất sử dụng cho khu kinh tế\n----------------\nĐiều 203, Khoản 3: 3. Việc thu hồi đất, giao đất, cho thuê đất trong khu kinh tế thực hiện theo quy định của Luật này.",
+            "is_legal_detected": true,
+            "response_time": 8.036
+        },
+        {
+            "id": 6,
+            "category": "Tư vấn Luật",
+            "question": "Quyền và nghĩa vụ của người sử dụng đất theo Luật Đất đai mới nhất?",
+            "answer": "Theo Luật Đất đai 2024, Điều 37 quy định về quyền và nghĩa vụ của cá nhân sử dụng đất. Cụ thể, người sử dụng đất có các quyền như: \n- Được cấp giấy chứng nhận quyền sử dụng đất;\n- Được sử dụng đất ổn định, lâu dài;\n- Được chuyển đổi, chuyển nhượng, cho thuê, thừa kế, tặng cho quyền sử dụng đất;\n- Được sử dụng đất để tạo lập tài sản gắn liền với đất;\n- Được bảo vệ quyền, lợi ích hợp pháp của mình.\n\nVề nghĩa vụ, người sử dụng đất phải:\n- Sử dụng đất đúng mục đích, đúng ranh giới, diện tích, thời hạn;\n- Thực hiện đầy đủ nghĩa vụ tài chính theo quy định của pháp luật;\n- Bảo vệ môi trường, không gây ô nhiễm nguồn nước, không làm tổn hại đến tài nguyên đất;\n- Tuân thủ các quy định về xây dựng, kiến trúc, quy hoạch;\n- Thực hiện các nghĩa vụ khác theo quy định của pháp luật về đất đai.",
+            "is_legal_detected": true,
+            "response_time": 28.897
+        },
+        {
+            "id": 7,
+            "category": "Tư vấn Luật",
+            "question": "Đối tượng nào phải nộp thuế thu nhập cá nhân theo quy định năm 2025?",
+            "answer": "Thông tin dưới đây mang tính tham khảo, bạn nên kiểm tra văn bản mới nhất.\n\nTheo quy định của pháp luật Việt Nam, đối tượng phải nộp thuế thu nhập cá nhân (TNCN) bao gồm:\n\n- Cá nhân cư trú: là người có nơi ở thường xuyên tại Việt Nam, bao gồm cả người nước ngoài sinh sống và làm việc tại Việt Nam.\n- Cá nhân không cư trú: là người không có nơi ở thường xuyên tại Việt Nam, nhưng có thu nhập phát sinh tại Việt Nam.\n\nCác nguồn thu nhập phải nộp thuế TNCN bao gồm:\n\n- Thu nhập từ tiền lương, tiền công.\n- Thu nhập từ kinh doanh.\n- Thu nhập từ đầu tư vốn.\n- Thu nhập từ bất động sản.\n- Thu nhập từ chuyển nhượng vốn.\n- Thu nhập từ quyền tài sản.\n- Thu nhập từ nhận thừa kế, quà tặng.\n\nTuy nhiên, cần lưu ý rằng có một số trường hợp được miễn thuế TNCN, chẳng hạn như thu nhập từ việc chuyển nhượng nhà ở, đất ở giữa vợ chồng, cha mẹ và con cái, hoặc thu nhập từ việc nhận thừa kế, quà tặng giữa những người thân thích.",
+            "is_legal_detected": true,
+            "response_time": 17.978
+        },
+        {
+            "id": 8,
+            "category": "Tư vấn Luật",
+            "question": "Các khoản thu nhập nào được miễn thuế thu nhập cá nhân?",
+            "answer": "Thông tin dưới đây mang tính tham khảo, bạn nên kiểm tra văn bản mới nhất.\n\nTheo quy định của pháp luật Việt Nam, các khoản thu nhập sau được miễn thuế thu nhập cá nhân:\n\n- Thu nhập từ việc chuyển nhượng nhà ở, đất ở giữa vợ chồng, cha mẹ và con cái.\n- Thu nhập từ việc nhận thừa kế, quà tặng giữa những người thân thích, bao gồm: vợ chồng, cha mẹ, con cái, ông bà, cháu nội, cháu ngoại.\n- Thu nhập từ việc chuyển nhượng bất động sản giữa những người thân thích.\n- Thu nhập từ lãi tiền gửi tại ngân hàng.\n- Thu nhập từ đầu tư chứng khoán mà tổ chức phát hành chứng khoán đã nộp thuế thu nhập doanh nghiệp.\n- Thu nhập từ việc bán hàng hóa, cung cấp dịch vụ của cá nhân kinh doanh có doanh thu hàng năm dưới mức doanh thu tối thiểu theo quy định của pháp luật.\n- Thu nhập từ việc nhận được tài sản cho thuê, cho mượn, cho ở nhờ.\n- Thu nhập từ việc bán tài sản thuộc quyền sở hữu của cá nhân, bao gồm: bất động sản, động sản, trừ trường hợp bán tài sản để kinh doanh.\n- Thu nhập từ việc nhận được tiền thưởng, tiền hỗ trợ, tiền trợ cấp, tiền bồi thường theo quy định của pháp luật.\n\nTuy nhiên, cần lưu ý rằng các quy định về miễn thuế thu nhập cá nhân có thể thay đổi, và không phải tất cả các khoản thu nhập đều được miễn thuế.",
+            "is_legal_detected": true,
+            "response_time": 12.79
+        },
+        {
+            "id": 9,
+            "category": "Tư vấn Luật",
+            "question": "Đối tượng áp dụng của Nghị định 293 là những ai?",
+            "answer": "Tôi không thể xác định được đối tượng áp dụng của Nghị định 293 vì thông tin về Nghị định này không rõ ràng. Bạn có thể cung cấp thêm thông tin hoặc làm rõ về Nghị định 293 không?",
+            "is_legal_detected": true,
+            "response_time": 1.922
+        },
+        {
+            "id": 10,
+            "category": "Tư vấn Luật",
+            "question": "Thời điểm có hiệu lực thi hành của Nghị định 293 được quy định tại điều nào?",
+            "answer": "Tôi không thể xác định được thời điểm có hiệu lực thi hành của Nghị định 293 vì thông tin về Nghị định này không rõ ràng. Bạn có thể cung cấp thêm thông tin hoặc làm rõ về Nghị định 293 không?",
+            "is_legal_detected": true,
+            "response_time": 2.164
+        },
+        {
+            "id": 11,
+            "category": "Tư vấn Luật",
+            "question": "Trích dẫn nguyên văn Khoản 1 Điều 8 Luật Hôn nhân và gia đình.",
+            "answer": "Điều 8. Điều kiện kết hôn\n\n1. Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên.",
+            "is_legal_detected": true,
+            "response_time": 2.02
+        },
+        {
+            "id": 12,
+            "category": "Tư vấn Luật",
+            "question": "Mức lương tối thiểu vùng theo quy định mới nhất trong dữ liệu của bạn là bao nhiêu?",
+            "answer": "Thông tin dưới đây mang tính tham khảo, bạn nên kiểm tra văn bản mới nhất.\n\nTheo Nghị định 90/2019/NĐ-CP, mức lương tối thiểu vùng được quy định như sau:\n\n- Vùng I: 4.180.000 đồng/tháng\n- Vùng II: 3.710.000 đồng/tháng\n- Vùng III: 3.250.000 đồng/tháng\n- Vùng IV: 2.920.000 đồng/tháng\n\nLưu ý: Thông tin này có thể đã thay đổi, bạn nên kiểm tra văn bản mới nhất để có thông tin chính xác.",
+            "is_legal_detected": true,
+            "response_time": 2.988
+        },
+        {
+            "id": 13,
+            "category": "Tư vấn Luật",
+            "question": "Thời gian nghỉ ngơi giữa ca làm việc theo Luật lao động 2019 quy định như thế nào?",
+            "answer": "Theo Điều 109, Khoản 1 của Bộ luật Lao động 2019, thời gian nghỉ giữa giờ được quy định như sau: \n\nNgười lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục. Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.",
+            "is_legal_detected": true,
+            "response_time": 8.34
+        },
+        {
+            "id": 14,
+            "category": "Tư vấn Luật",
+            "question": "Thủ tục đăng ký biến động đất đai theo Luật Đất đai 2024?",
+            "answer": "Thông tin dưới đây mang tính tham khảo, bạn nên kiểm tra văn bản mới nhất.\n\nTheo Luật Đất đai 2013 (vì tôi không có thông tin về Luật Đất đai 2024), thủ tục đăng ký biến động đất đai được quy định tại Điều 95, cụ thể như sau:\n\n1. Người sử dụng đất nộp hồ sơ đăng ký biến động đất đai tại Ủy ban nhân dân cấp huyện nơi có đất.\n2. Hồ sơ đăng ký biến động đất đai bao gồm:\n * Đơn đăng ký biến động đất đai;\n * Giấy chứng nhận quyền sử dụng đất hoặc giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở;\n * Giấy tờ liên quan đến biến động đất đai (ví dụ: giấy tờ về việc chuyển nhượng, tặng cho, thừa kế quyền sử dụng đất).\n3. Ủy ban nhân dân cấp huyện nơi có đất xem xét, kiểm tra hồ sơ và cấp giấy chứng nhận quyền sử dụng đất mới cho người sử dụng đất trong thời hạn không quá 30 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.\n\nLưu ý: Thông tin này có thể đã thay đổi, bạn nên kiểm tra văn bản mới nhất để có thông tin chính xác.",
+            "is_legal_detected": true,
+            "response_time": 14.7
+        },
+        {
+            "id": 15,
+            "category": "Dịch vụ",
+            "question": "Văn phòng có gói dịch vụ nào hỗ trợ thủ tục làm Sổ đỏ không?",
+            "answer": "Chúng tôi có gói dịch vụ \"Thủ tục Đất đai (Sổ đỏ)\" với giá 10.000.000 VND. Gói dịch vụ này sẽ hỗ trợ quý khách hàng trong việc thực hiện thủ tục làm Sổ đỏ, bao gồm cả việc tư vấn và thực hiện các bước cần thiết để có được giấy chứng nhận quyền sử dụng đất. Chi phí sẽ được báo chi tiết khi tư vấn.",
+            "is_legal_detected": true,
+            "response_time": 17.507
+        },
+        {
+            "id": 16,
+            "category": "Dịch vụ",
+            "question": "Chi phí tư vấn Luật lao động là bao nhiêu?",
+            "answer": "Chúng tôi có gói dịch vụ \"Tư vấn Lao động & Tiền lương\" với giá 20.000.000 VND.",
+            "is_legal_detected": true,
+            "response_time": 15.057
+        },
+        {
+            "id": 17,
+            "category": "Lịch hẹn",
+            "question": "Tôi muốn đặt lịch gặp Luật sư để tư vấn về tranh chấp đất đai.",
+            "answer": "Để đặt lịch gặp Luật sư, tôi cần biết thêm thông tin về vụ việc của bạn. Bạn có thể cung cấp cho tôi thông tin về vụ việc tranh chấp đất đai mà bạn muốn tư vấn không? Sau đó, tôi sẽ giúp bạn đặt lịch gặp Luật sư.",
+            "is_legal_detected": true,
+            "response_time": 24.161
+        },
+        {
+            "id": 18,
+            "category": "Lịch hẹn",
+            "question": "Cho tôi xem danh sách lịch hẹn hiện tại của tôi.",
+            "answer": "Dưới đây là danh sách lịch hẹn hiện tại của bạn:\n- [ID: 14] Hẹn tư vấn vụ việc: Vụ mới: 00:00 22/04/2026 tại Tại văn phòng\n- [ID: 13] test test test: 08:00 22/04/2026 tại văn phòng luật sư\n\nNếu bạn muốn đặt lịch hẹn mới hoặc cập nhật lịch hẹn hiện tại, vui lòng cho tôi biết.",
+            "is_legal_detected": true,
+            "response_time": 25.275
+        },
+        {
+            "id": 19,
+            "category": "Ngoại lệ",
+            "question": "Bạn có thể viết giúp tôi một bài thơ về thành phố Cần Thơ không?",
+            "answer": "Nếu bạn cần hỗ trợ pháp lý, tôi sẵn sàng giúp.",
+            "is_legal_detected": true,
+            "response_time": 14.122
+        },
+        {
+            "id": 20,
+            "category": "Ngoại lệ",
+            "question": "Hướng dẫn tôi cách cài đặt Windows 11.",
+            "answer": "Nếu bạn cần hỗ trợ pháp lý, tôi sẵn sàng giúp.",
+            "is_legal_detected": false,
+            "response_time": 11.26
+        }
+    ]
+}
