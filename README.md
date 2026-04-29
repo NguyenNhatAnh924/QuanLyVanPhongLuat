@@ -37,7 +37,7 @@ Hệ thống được thiết kế để phục vụ 5 nhóm người dùng chí
 - Thống kê báo cáo: Theo dõi doanh thu, số lượng vụ việc và hiệu suất làm việc của nhân viên trong văn phòng.
 
 ## Cấu trúc thư mục
-
+```bash
 LuanVan_Project/
 ├── api/ # App chính xử lý Logic Backend (Django)
 │ ├── tests/ # Chứa các kịch bản kiểm thử (vd: độ chính xác Chatbot)
@@ -70,7 +70,7 @@ LuanVan_Project/
 ├── contracts/ & documents/ # Thư mục chứa tệp mẫu hoặc dữ liệu thô (nếu có)
 ├── manage.py # Công cụ dòng lệnh để thực thi các lệnh Django
 └── db.sqlite3 # Cơ sở dữ liệu tạm thời (Development Database)
-
+```
 # Hướng dẫn cài đặt
 
 ## Yêu cầu hệ thống
@@ -82,30 +82,35 @@ LuanVan_Project/
 ## Cài đặt pgvector
 
 ### Tải file biên dịch sẵn của pgvector
-
+```bash
 github.com/pgvector/pgvector/releases
-
+```
 ### Sao chép file .dll vào thư mục lib và các file .control, .sql vào thư mục share/extension trong đường dẫn cài đặt PostgreSQL
 
 ### Mở Query Tool trong pgAdmin hoặc SQL Shell và chạy lệnh:
-
+```bash
 CREATE EXTENSION IF NOT EXISTS vector;
-
+```
 ## BackEnd
 
 - Tạo môi trường ảo
+```bash
   python -m venv venv
+  ```
 - Kích hoạt môi trường
+```bash
   venv\Scripts\activate
-
+```
 ### Cài thư viện
 
-- Dịango
+- Dijango
+```bash
   pip install django djangorestframework psycopg2-binary
-
-### Câuus hình DB
+```
+### Cấu hình DB
 
 - Trong file backend_core/settings.py
+```bash
   DATABASES = {
   'default': {
   'ENGINE': 'django.db.backends.postgresql',
@@ -116,27 +121,29 @@ CREATE EXTENSION IF NOT EXISTS vector;
   'PORT': '5432',
   }
   }
+  ```
   Thay bằng thông tin PostgreSQL của bạn
 
 ### Chạy migrate
-
+```bash
 python manage.py makemigrations
 python manage.py migrate
-
+```
 ### Tạo tài khoản admin
-
+```bash
 python manage.py createsuperuser
-
+```
 ### Chạy server
-
+```bash
 python manage.py runserver
-
+```
 ## FrontEnd
 
 ### Cài thư viện
-
+```bash
 npm install
-
+```
 ### Chạy frontend
-
+```bash
 npm run dev
+```
